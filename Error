@@ -1,0 +1,8 @@
+Anybody know how to fix this?
+
+ 
+[4/14/2019 7:41:36 AM] [Error] MissingMethodException: Method 'SDG.Unturned.ZombieManager.sendZombieDead' not found. - RocketRegions.RegionsPlugin.Update () (at <c1e7b7e4efab4a8d9d8bfe5041c84a3f>:0)
+ 
+[4/14/2019 7:41:36 AM] [Error] MissingMethodException: Method 'SDG.Unturned.ZombieManager.sendZombieDead' not found. - RocketRegions.RegionsPlugin.Update () (at <c1e7b7e4efab4a8d9d8bfe5041c84a3f>:0)
+ 
+[4/14/2019 7:41:36 AM] [Error] MissingMethodException: Method 'SDG.Unturned.ZombieManager.sendZombieDead' not found. - RocketRegions.RegionsPlugin.Update () (at <c1e7b7e4efab4a8d9d8bfe5041c84a3f>:
